@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects, espcially in healthcare, to advance my skills and expand my horizon. 
 - 📫 I can be reached at jannaphm@gmail.com
 - 😄 Pronouns: I identify myself as a conservative lol. 
-- ⚡ Fun fact: I used to live (like a nun) and volunteer in a monastery for over 6 years. 
+- ⚡ Fun fact: I love playing badminton 😍🏸🏸🏸 
 
 <!---
 jntph/jntph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
