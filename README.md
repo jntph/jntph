@@ -3,7 +3,7 @@
 - 🌱 I’m currently enrolled in IBM Data Science Professional Cert. program on Coursera for my transition into DS. 
 - 💞️ I’m looking for a mentor in this field to hone my skills and expand my horizon. 
 - 📫 I can be reached at jannaphm@gmail.com
-- 😄 Pronouns: I identify myself as a conservative lol. 
+- 😄 Pronouns: Let me skip this part lol. 
 - ⚡ Fun fact: I love playing badminton 😍🏸🏸🏸 
 
 <!---
