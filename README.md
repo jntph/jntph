@@ -1,7 +1,7 @@
-- 👋 Hello, I’m Janna, an aspired Data Scientist with professtional medical experience and Biomedical Engineering background.
+- 👋 Hello, I’m Janna, an aspired Data Scientist with 5 years professtional medical experience and strong Biomedical Engineering background.
 - 👀 I’m interested in solving problems and looking at things with different perspectives. 
-- 🌱 I’m currently enrolled in IBM Data Science Professional Cert. program on Coursera for my transition into DS. 
-- 💞️ I’m looking for a mentor in this field to hone my skills and expand my horizon. 
+- 🌱 I've successfully obtained the IBM Data Science Professional Certificate. Yay!!! 
+- 💞️ I’m looking for a mentor in this field to hone my skills and expand my horizon and career opportunities, of course.
 - 📫 I can be reached at jannaphm@gmail.com
 - 😄 Pronouns: Let me skip this part lol. 
 - ⚡ Fun fact: I love playing badminton 😍🏸🏸🏸 
