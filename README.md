@@ -1,7 +1,7 @@
-- 👋 Hello, I’m Janna, an aspired Data Scientist in transition with 5 years professtional medical experience and strong Biomedical Engineering background.
+- 👋 Hello, I’m Janna, an aspired Data Scientist in transition.
 - 👀 I’m interested in solving problems and looking at things with different perspectives. 
 - 🌱 I've successfully obtained the IBM Data Science Professional Certificate. Yay!!! 
-- 💞️ I’m looking for a mentor in this field to hone my skills and expand my horizon and career opportunities, of course.
+- 💞️ I’m looking for a mentor and working opportunities in this field to hone my skills and expand my horizon.
 - 📫 I can be reached at jannaphm@gmail.com
 - 😄 Pronouns: I am a female :) 
 - ⚡ Fun fact: I love playing badminton 😍🏸🏸🏸 
