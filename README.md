@@ -3,7 +3,6 @@
 - 🌱 I've successfully obtained the IBM Data Science Professional Certificate. Yay!!! 
 - 💞️ I’m looking for a mentor and working opportunities in this field to hone my skills and expand my horizon.
 - 📫 I can be reached at jannaphm@gmail.com
-- 😄 Pronouns: I am a female :) 
 - ⚡ Fun fact: I love playing badminton 😍🏸🏸🏸 
 
 <!---
