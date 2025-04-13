@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Janna, an aspired Data Scientist in transition. 
-- 👀 I’m interested in solving problems and looking at things with different perspectives. 
-- 🌱 I've successfully obtained the IBM Data Science Professional Certificate.
+- 👋 Hello, I’m Janna! Nice to "meet" you! 
+- 👀 I’m exploring the IT field and currently looking into Cloud Computing and DevOps.
+- 🌱 I've recently completed the IBM Data Science Professional Certificate program on Coursera.
 - 💞️ I’m looking for a mentor and working opportunities in this field to hone my skills and expand my horizon.
 - 📫 I can be reached at jannaphm@gmail.com
 - ⚡ Fun fact: I love playing badminton 😍🏸🏸🏸
