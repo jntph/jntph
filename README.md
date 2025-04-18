@@ -1,8 +1,8 @@
 - 👋 Hello, I’m Janna! Nice to "meet" you! 
 - 👀 I’m exploring the IT field and currently looking into Cloud Computing and DevOps.
-- 🌱 I've recently completed the IBM Data Science Professional Certificate program on Coursera.
-- 💞️ I’m looking for a mentor and working opportunities in this field to hone my skills and expand my horizon.
-- 📫 I can be reached at jannaphm@gmail.com
+- 🌱 Recently completed the IBM Data Science Professional Certificate program on Coursera.
+- 💞️ Looking out for a mentor and working opportunities in this field to enrich my experience.
+- 📫 Reach me at jannaphm@gmail.com
 - ⚡ Fun fact: I love playing badminton 😍🏸🏸🏸
 - Thank you for checking out my GitHub! Have a great day! 🙏🏼
 
